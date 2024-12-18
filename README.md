@@ -11,8 +11,9 @@
    - Achieved 5 stars in Python 🐍 on HackerRank, reflecting strong programming expertise
 
   ⚡ Fun Facts:
-   I actively participate in Hackathons 💻, Smart India Hackathon 🚀, and various technical events
-   My hobbies include playing cricket 🏏, exploring video games 🎮, and enjoying good music 🎵
+ 
+   - Actively participate in Hackathons 💻, Smart India Hackathon 🚀, and various technical events
+   - Hobbies include playing cricket 🏏, exploring video games 🎮, and enjoying good music 🎵
 
    Let’s connect and innovate together! 🌟
 
