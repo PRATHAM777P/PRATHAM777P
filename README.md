@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Prathamesh Penshanwar
+ 👋 Hi, I'm Prathamesh Penshanwar
 
   - 🎓 Electronics & Telecommunication Engineer
   - 👀 I’m interested in App Design & Development 📱, Robotics & Automation 🤖, and AI-driven solutions 💡
