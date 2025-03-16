@@ -19,7 +19,8 @@
    - Actively participate in Hackathons 💻, Smart India Hackathon 🚀, and various technical events
    🎮 Gamer at heart – Love BGMI, FPS games, and AI-driven gaming concepts
    🏏 Cricket Fanatic – Weekend player & tournament enthusiast
-   🎵 Music Lover – Coding with beats = ultimate productivity 🎶
+
+   Coding with beats = ultimate productivity 🎶
 
    Let’s connect and innovate together! 🌟
 
