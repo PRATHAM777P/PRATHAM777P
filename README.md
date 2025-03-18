@@ -13,15 +13,12 @@
    -  Android App Development (Kotlin | Jetpack Compose | Firebase)
    -  IoT & Robotics (Embedded C | ESP32 | Arduino)
 
-  🚀 Competitions & Hackathons
-  🏅 Smart India Hackathon (2023)
-  🤖 ROBOTHON Competition – SGBAU University (2023)
-  🏎️ IGNITE Robo Race (2024)
-  💡 LabLab Next Hackathon (2023)
+  🚀 Competitions & Hackathons  
+  🏅 Smart India Hackathon (2023) || 🤖 ROBOTHON Competition – SGBAU University (2023) || 🏎️ IGNITE Robo Race (2024) || 💡 LabLab Next Hackathon (2023)
 
-⚡ Fun Facts
-🎵 Coding with beats = Ultimate Productivity! 🎶
-💡 Let’s Connect & Innovate Together! 🌟
+  ⚡ Fun Facts
+  🎵 Coding with beats = Ultimate Productivity! 🎶
+  💡 Let’s Connect & Innovate Together! 🌟
 
 <!---
 PRATHAM777P/PRATHAM777P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
