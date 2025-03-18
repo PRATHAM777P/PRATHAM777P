@@ -14,8 +14,8 @@
    -  IoT & Robotics (Embedded C | ESP32 | Arduino)
 
   🚀 Competitions & Hackathons  
-  🏅 Smart India Hackathon (2023) || 🤖 ROBOTHON Competition – SGBAU University (2023) || 🏎️ IGNITE Robo Race (2024)   ||  
-     💡 LabLab Next Hackathon (2023)
+  🏅 Smart India Hackathon (2023) || 🤖 ROBOTHON Competition – SGBAU University (2023)  
+  🏎️ IGNITE Robo Race (2024) ||💡 LabLab Next Hackathon (2023)
 
   ⚡ Fun Facts
   🎵 Coding with beats = Ultimate Productivity! 🎶
