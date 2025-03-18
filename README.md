@@ -1,5 +1,6 @@
  👋 Hi, I'm Prathamesh Penshanwar
- 🎓 Electronics & Telecommunication Engineer
+ 
+   🎓 Electronics & Telecommunication Engineer
   
   🏆 Achievements:
    - 1st Prize in the Business Model Competition (Eureka!) in association with IIT Bombay 🏆 (2023) for an innovative Mahabharata game concept using Unreal Engine
