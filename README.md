@@ -1,8 +1,5 @@
  👋 Hi, I'm Prathamesh Penshanwar
-
-  - 🎓 Electronics & Telecommunication Engineer
-  - 👀 I’m interested in App Design & Development 📱, Robotics & Automation 🤖, and AI-driven solutions 💡
-  - 🤝 I’m looking to collaborate on projects in AI 🤖, Robotics, Android App Development 📲, IoT 🌐
+ 🎓 Electronics & Telecommunication Engineer
   
   🏆 Achievements:
    - 1st Prize in the Business Model Competition (Eureka!) in association with IIT Bombay 🏆 (2023) for an innovative Mahabharata game concept using Unreal Engine
