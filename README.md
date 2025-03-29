@@ -4,8 +4,7 @@
   
   🏆 Achievements:
    - 1st Prize in the Business Model Competition (Eureka!) in association with IIT Bombay 🏆 (2023) for an innovative Mahabharata game concept using Unreal Engine
-   - Participated in the Robothon Competition 🤖 at SGBAU University
-
+   
   🤝 Looking to Collaborate on:
    -  AI & ML Projects (NLP, Computer Vision, Deep Learning)
    -  Android App Development (Kotlin | Jetpack Compose | Firebase)
