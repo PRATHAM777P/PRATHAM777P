@@ -57,7 +57,8 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 - 💡 LabLab Next Hackathon – 2023  
 ---
 <details>
-  <summary><strong>🛠️ View My Full Tech Stack</strong></summary><br>
+  <summary><strong>🛠️ View My Full Tech Stack 🔍</strong></summary>
+  <br>
 
 ### 👨‍💻 Programming Languages  
 <p>
