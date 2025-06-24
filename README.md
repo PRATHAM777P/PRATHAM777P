@@ -85,4 +85,14 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 💡 Let’s Connect & Innovate Together! 🌟
 ---
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=jupyter&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="32px"/>
+</p>
