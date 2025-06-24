@@ -1,12 +1,10 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   <span style="background: linear-gradient(to right, #00FFFF, #8A2BE2, #00FFFF); -webkit-background-clip: text; color: transparent; font-weight: 700;">
-    Hi, my name is Prathamesh Penshanwar
+    Hi there, I'm Prathamesh Penshanwar
+    <sub><em>aka Pratham</em></sub>
   </span>
-</h1>
-<h1 align="center">👋 Hi, my name is Prathamesh Penshanwar</h1>
-<hr style="border: 1px solid #444; margin: 20px 0;" />
-<h3 align="center">Connect with me:</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prathamesh-penshanwar777p/" target="_blank">
