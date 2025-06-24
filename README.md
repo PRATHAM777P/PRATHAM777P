@@ -66,17 +66,11 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
   <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px"/>
   <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px"/>
   <img src="https://skillicons.dev/icons?i=linux&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </p>
  
-<p align="center"> <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px"/> </p>
-📚 Frameworks & Libraries
-<p align="center"> <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=numpy&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=pytorch&theme=light" width="32px"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NLTK-9C27B0?style=flat"/> <img src="https://img.shields.io/badge/Promptify-00C853?style=flat"/> <img src="https://img.shields.io/badge/Android SDK-3DDC84?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-009688?style=flat"/> <img src="https://img.shields.io/badge/DHT.h|WiFiAP.h|WiFiClient-607D8B?style=flat"/> </p>
-🗄️ Databases & Query Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/> </p>
-💻 Operating Systems
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux&theme=light" width="32px"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/> </p>
-
-
 ### 📊 GitHub Stats
 
 <p align="left">
