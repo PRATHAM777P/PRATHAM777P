@@ -56,7 +56,17 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 - 💡 LabLab Next Hackathon – 2023  
 ---
 🚀 My Tech Stack
-<h3 align="center"> <p align="center"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Embedded C-blue?style=for-the-badge"/> </p> <p align="center"> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/MS Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p> <p align="center"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Android SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/GenAI Tools-512DA8?style=for-the-badge"/> </p> <p align="center"> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> </p>
+🛠️ My Tech Stack
+👨‍💻 Programming Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,kotlin" /> </p>
+🧰 Tools & Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,androidstudio,jupyter,git,github,docker,azure,aws" /> </p> <p align="center"> <img src="https://img.shields.io/badge/MS Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/> </p>
+📚 Frameworks & Libraries
+<p align="center"> <img src="https://skillicons.dev/icons?i=opencv,numpy,pytorch" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NLTK-9C27B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Promptify-00C853?style=for-the-badge"/> <img src="https://img.shields.io/badge/Android SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/DHT.h|WiFiAP.h|WiFiClient-607D8B?style=for-the-badge"/> </p>
+🗄️ Databases & Query Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+💻 Operating Systems
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </p>
 
 
 ### 📊 GitHub Stats
@@ -77,10 +87,5 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 
 💡 Let’s Connect & Innovate Together! 🌟
 ---
-<h3 align="center">🚀 My Tech Stack</h3>
-<p align="center">
-  <h3 align="center">🚀 My Tech Stack</h3>
-<p align="center">
-  <img src="https://github.com/PRATHAM777P/PRATHAM777P/assets/PRATHAM777P/17512cfe-a3ad-4ae9-9a13-83e2d7445873" alt="Tech Stack Logo"/>
-</p>
+
 
