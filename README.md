@@ -90,5 +90,33 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 💡 Let’s Connect & Innovate Together! 🌟
 ---
 
+<h3 align="center">🌐 Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathamesh-penshanwar777p/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  <a href="https://github.com/PRATHAM777P" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.instagram.com/prathamesh.penshanwar/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.youtube.com/@PrathamTechx" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.snapchat.com/add/pratham_777p?share_id=m1QLr-g4F0U&locale=en-US" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000" height="28" />
+  </a>
+  <a href="mailto:prathameshpenshanwar777@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Prathamesh777H_R" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.codechef.com/users/prath_7codex" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28" />
+  </a>
+</p>
 
   
