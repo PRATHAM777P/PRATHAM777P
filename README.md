@@ -34,7 +34,6 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 
 - 🧠 Smart India Hackathon – 2023  
 - 🤖 ROBOTHON – SGBAU University (2023)  
-- 🏎️ IGNITE Robo Race – 2024  
 - 💡 LabLab Next Hackathon – 2023  
 ---
 🧰 My Tech Stack
@@ -72,37 +71,3 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 
 💡 Let’s Connect & Innovate Together! 🌟
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-### 🤝 I’m Looking to Collaborate On:                                    |  ### 🚀 Competitions & Hackathons
-                                                                                
-- 🤖 **AI & ML Projects** – NLP, Computer Vision, Deep Learning          |    - 🤖 ROBOTHON – SGBAU University (2023)  
-- 📱 **Android App Development** – Kotlin, Jetpack Compose, Retrofit     |    - 🏎️ IGNITE Robo Race – 2024  
-- 🌐 **IoT & Robotics** – Embedded C, ESP32, Arduino                     |    - 💡 LabLab Next Hackathon – 2023 
----
- 
