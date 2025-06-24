@@ -74,38 +74,23 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 ---
 
 
-<details>
-  <summary><strong>🏆 Achievements</strong></summary>
 
-| 🏆 Achievement | Description |
-|---|---|
-| 🥇 1st Prize | Business Model Competition (**Eureka!**) in collaboration with **IIT Bombay**, 2023 |
-| 🕹️ Innovative Game Concept | Designed **Mahabharata Game** using Unreal Engine |
 
-</details>
 
-<details>
-  <summary><strong>🤝 I’m Looking to Collaborate On</strong></summary>
 
-| 🤖 Field | Tools & Focus |
-|---|---|
-| AI & ML Projects | NLP, Computer Vision, Deep Learning |
-| Android App Development | Kotlin, Jetpack Compose, Retrofit |
-| IoT & Robotics | Embedded C, ESP32, Arduino |
 
-</details>
 
-<details>
-  <summary><strong>🚀 Hackathons & Competitions</strong></summary>
 
-| 🏁 Event | Year |
-|---|---|
-| 🧠 Smart India Hackathon | 2023 |
-| 🤖 ROBOTHON (SGBAU University) | 2023 |
-| 🏎️ IGNITE Robo Race | 2024 |
-| 💡 LabLab Next Hackathon | 2023 |
 
-</details>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -114,63 +99,10 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 
 
 ---
-
-<details>
-  <summary><h3>🏆 Achievements</h3></summary>
-
-<table>
-  <tr>
-    <td>🥇 <strong>1st Prize</strong></td>
-    <td>Business Model Competition (Eureka!) in association with <strong>IIT Bombay</strong>, 2023</td>
-  </tr>
-  <tr>
-    <td>🕹️ <strong>Innovative Game</strong></td>
-    <td>Conceptualized a <em>Mahabharata Game</em> using Unreal Engine</td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-  <summary><h3>🤝 I’m Looking to Collaborate On</h3></summary>
-
-<table>
-  <tr>
-    <td>🤖 <strong>AI & ML Projects</strong></td>
-    <td>NLP, Computer Vision, Deep Learning</td>
-  </tr>
-  <tr>
-    <td>📱 <strong>Android Apps</strong></td>
-    <td>Kotlin, Jetpack Compose, Retrofit</td>
-  </tr>
-  <tr>
-    <td>🌐 <strong>IoT & Robotics</strong></td>
-    <td>Embedded C, ESP32, Arduino</td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-  <summary><h3>🚀 Competitions & Hackathons</h3></summary>
-
-<table>
-  <tr>
-    <td>🧠 <strong>Smart India Hackathon</strong></td>
-    <td>2023</td>
-  </tr>
-  <tr>
-    <td>🤖 <strong>ROBOTHON – SGBAU University</strong></td>
-    <td>2023</td>
-  </tr>
-  <tr>
-    <td>🏎️ <strong>IGNITE Robo Race</strong></td>
-    <td>2024</td>
-  </tr>
-  <tr>
-    <td>💡 <strong>LabLab Next Hackathon</strong></td>
-    <td>2023</td>
-  </tr>
-</table>
-
-</details>
+### 🤝 I’m Looking to Collaborate On:                                    |  ### 🚀 Competitions & Hackathons
+                                                                                
+- 🤖 **AI & ML Projects** – NLP, Computer Vision, Deep Learning          |    - 🤖 ROBOTHON – SGBAU University (2023)  
+- 📱 **Android App Development** – Kotlin, Jetpack Compose, Retrofit     |    - 🏎️ IGNITE Robo Race – 2024  
+- 🌐 **IoT & Robotics** – Embedded C, ESP32, Arduino                     |    - 💡 LabLab Next Hackathon – 2023 
+---
+ 
