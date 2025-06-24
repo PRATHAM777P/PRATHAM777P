@@ -74,28 +74,103 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 ---
 
 
-<h3 align="center">🤝 Let's Collaborate & Compete Together!</h3>
+<details>
+  <summary><strong>🏆 Achievements</strong></summary>
 
-<table align="center">
+| 🏆 Achievement | Description |
+|---|---|
+| 🥇 1st Prize | Business Model Competition (**Eureka!**) in collaboration with **IIT Bombay**, 2023 |
+| 🕹️ Innovative Game Concept | Designed **Mahabharata Game** using Unreal Engine |
+
+</details>
+
+<details>
+  <summary><strong>🤝 I’m Looking to Collaborate On</strong></summary>
+
+| 🤖 Field | Tools & Focus |
+|---|---|
+| AI & ML Projects | NLP, Computer Vision, Deep Learning |
+| Android App Development | Kotlin, Jetpack Compose, Retrofit |
+| IoT & Robotics | Embedded C, ESP32, Arduino |
+
+</details>
+
+<details>
+  <summary><strong>🚀 Hackathons & Competitions</strong></summary>
+
+| 🏁 Event | Year |
+|---|---|
+| 🧠 Smart India Hackathon | 2023 |
+| 🤖 ROBOTHON (SGBAU University) | 2023 |
+| 🏎️ IGNITE Robo Race | 2024 |
+| 💡 LabLab Next Hackathon | 2023 |
+
+</details>
+
+
+
+
+
+
+
+---
+
+<details>
+  <summary><h3>🏆 Achievements</h3></summary>
+
+<table>
   <tr>
-    <th align="center">🚧 I’m Looking to Collaborate On</th>
-    <th align="center">🏁 Competitions & Hackathons</th>
+    <td>🥇 <strong>1st Prize</strong></td>
+    <td>Business Model Competition (Eureka!) in association with <strong>IIT Bombay</strong>, 2023</td>
   </tr>
   <tr>
-    <td>🤖 <strong>AI & ML Projects</strong><br/>NLP, Computer Vision, Deep Learning</td>
-    <td>🧠 <strong>Smart India Hackathon</strong> – 2023</td>
-  </tr>
-  <tr>
-    <td>📱 <strong>Android Development</strong><br/>Kotlin, Jetpack Compose, Retrofit</td>
-    <td>🤖 <strong>ROBOTHON</strong> – SGBAU University (2023)</td>
-  </tr>
-  <tr>
-    <td>🌐 <strong>IoT & Robotics</strong><br/>Embedded C, ESP32, Arduino</td>
-    <td>🏎️ <strong>IGNITE Robo Race</strong> – 2024</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>💡 <strong>LabLab Next Hackathon</strong> – 2023</td>
+    <td>🕹️ <strong>Innovative Game</strong></td>
+    <td>Conceptualized a <em>Mahabharata Game</em> using Unreal Engine</td>
   </tr>
 </table>
 
+</details>
+
+<details>
+  <summary><h3>🤝 I’m Looking to Collaborate On</h3></summary>
+
+<table>
+  <tr>
+    <td>🤖 <strong>AI & ML Projects</strong></td>
+    <td>NLP, Computer Vision, Deep Learning</td>
+  </tr>
+  <tr>
+    <td>📱 <strong>Android Apps</strong></td>
+    <td>Kotlin, Jetpack Compose, Retrofit</td>
+  </tr>
+  <tr>
+    <td>🌐 <strong>IoT & Robotics</strong></td>
+    <td>Embedded C, ESP32, Arduino</td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+  <summary><h3>🚀 Competitions & Hackathons</h3></summary>
+
+<table>
+  <tr>
+    <td>🧠 <strong>Smart India Hackathon</strong></td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>🤖 <strong>ROBOTHON – SGBAU University</strong></td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>🏎️ <strong>IGNITE Robo Race</strong></td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>💡 <strong>LabLab Next Hackathon</strong></td>
+    <td>2023</td>
+  </tr>
+</table>
+
+</details>
