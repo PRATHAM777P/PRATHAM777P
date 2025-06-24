@@ -79,6 +79,8 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 ---
 <h3 align="center">🚀 My Tech Stack</h3>
 <p align="center">
+  <h3 align="center">🚀 My Tech Stack</h3>
+<p align="center">
   <img src="https://github.com/PRATHAM777P/PRATHAM777P/assets/PRATHAM777P/17512cfe-a3ad-4ae9-9a13-83e2d7445873" alt="Tech Stack Logo"/>
 </p>
 
