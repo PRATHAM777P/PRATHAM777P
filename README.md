@@ -56,8 +56,7 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 - 💡 LabLab Next Hackathon – 2023  
 ---
 🛠️ My Tech Stack
-👨‍💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px"/> </p>
+- <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px"/> </p>
 🧰 Tools & Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=jupyter&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px"/> </p> <p align="center"> <img src="https://img.shields.io/badge/MSOffice-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=flat&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"/> </p>
 📚 Frameworks & Libraries
