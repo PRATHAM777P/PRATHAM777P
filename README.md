@@ -55,7 +55,7 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 - 💡 LabLab Next Hackathon – 2023  
 ---
 🧰 My Tech Stack
-</p>
+
   <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> 
   <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px"/> 
   <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px"/> 
