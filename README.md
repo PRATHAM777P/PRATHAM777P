@@ -1,7 +1,10 @@
-<p align="center">
+<h2 align="center" style="font-family:Segoe UI, sans-serif;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-  <strong style="font-size:24px;">Hi, I'm <span style="color:#00C2CB;">Prathamesh Penshanwar</span> aka <span style="color:#8A2BE2;">Pratham</span></strong>
-</p>
+  <span style="background: linear-gradient(to right, #00FFFF, #8A2BE2, #00FFFF); -webkit-background-clip: text; color: transparent; font-weight: 700;">
+    Hi there, I'm Prathamesh Penshanwar
+  </span> 
+  <br/>
+  <sub><em>aka Pratham
 ---
 
 <h3 align="center">Connect with me:</h3>
