@@ -51,6 +51,7 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
   <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="32px"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=pandas&theme=light" width="32px"/>
 </p>
  
 ### 📊 GitHub Stats
