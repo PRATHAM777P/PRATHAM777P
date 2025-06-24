@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, my name is Prathamesh Penshanwar</h1>
-
+<hr style="border: 1px solid #444; margin: 20px 0;" />
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
