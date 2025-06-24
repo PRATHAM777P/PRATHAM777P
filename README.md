@@ -74,4 +74,28 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 ---
 
 
+<h3 align="center">🤝 Let's Collaborate & Compete Together!</h3>
+
+<table align="center">
+  <tr>
+    <th align="center">🚧 I’m Looking to Collaborate On</th>
+    <th align="center">🏁 Competitions & Hackathons</th>
+  </tr>
+  <tr>
+    <td>🤖 <strong>AI & ML Projects</strong><br/>NLP, Computer Vision, Deep Learning</td>
+    <td>🧠 <strong>Smart India Hackathon</strong> – 2023</td>
+  </tr>
+  <tr>
+    <td>📱 <strong>Android Development</strong><br/>Kotlin, Jetpack Compose, Retrofit</td>
+    <td>🤖 <strong>ROBOTHON</strong> – SGBAU University (2023)</td>
+  </tr>
+  <tr>
+    <td>🌐 <strong>IoT & Robotics</strong><br/>Embedded C, ESP32, Arduino</td>
+    <td>🏎️ <strong>IGNITE Robo Race</strong> – 2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>💡 <strong>LabLab Next Hackathon</strong> – 2023</td>
+  </tr>
+</table>
 
