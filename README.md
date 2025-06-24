@@ -55,7 +55,18 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 - 💡 LabLab Next Hackathon – 2023  
 ---
 🧰 My Tech Stack
-<img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px"/> </p>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> 
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px"/> 
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px"/> 
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="32px"/>
+</p>
  
 <p align="center"> <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px"/> <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px"/> </p>
 📚 Frameworks & Libraries
@@ -85,14 +96,4 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 💡 Let’s Connect & Innovate Together! 🌟
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=jupyter&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="32px"/>
-</p>
+
