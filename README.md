@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, my name is Prathamesh Penshanwar</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+  <strong style="font-size:24px;">Hi, I'm <span style="color:#00C2CB;">Prathamesh Penshanwar</span> aka <span style="color:#8A2BE2;">Pratham</span></strong>
+</p>
+---
 
 <h3 align="center">Connect with me:</h3>
 
