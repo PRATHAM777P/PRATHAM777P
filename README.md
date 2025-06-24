@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   <span style="background: linear-gradient(to right, #00FFFF, #8A2BE2, #00FFFF); -webkit-background-clip: text; color: transparent; font-weight: 700;">
     Hi there, I'm Prathamesh Penshanwar
-     </a>
-    <sub><em>aka Pratham</em></sub>
+     <h0 align="center">aka Pratham</h0>
   </span>
 
 <h3 align="center">Connect with me:</h3>
