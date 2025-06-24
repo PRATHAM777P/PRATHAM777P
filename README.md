@@ -24,9 +24,6 @@
   <a href="https://www.hackerrank.com/profile/Prathamesh777H_R" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28" />
 </a>
-<a href="https://discord.com/users/1330120760282316912" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" />
-</a>
 </p>
 
 ---
