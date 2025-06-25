@@ -22,19 +22,6 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 
 - 🥇 **1st Prize** – Business Model Competition (Eureka!) in association with **IIT Bombay**, 2023  
 - 🕹️ Concept: Innovative **Mahabharata Game** using Unreal Engine
-
----
-### 🤝 I’m Looking to Collaborate On:
-
-- 🤖 **AI & ML Projects** – NLP, Computer Vision, Deep Learning  
-- 📱 **Android App Development** – Kotlin, Jetpack Compose, Retrofit 
-- 🌐 **IoT & Robotics** – Embedded C, ESP32, Arduino
----
-### 🚀 Competitions & Hackathons
-
-- 🧠 Smart India Hackathon – 2023  
-- 🤖 ROBOTHON – SGBAU University (2023)  
-- 💡 LabLab Next Hackathon – 2023  
 ---
 🧰 My Tech Stack
 <p align="left"><img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> 
