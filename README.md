@@ -7,6 +7,8 @@
 </h2>
   </span>
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prathamesh-penshanwar777p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-penshanwar777p/" height="30" width="40" /></a>
@@ -83,7 +85,9 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 ### 📊 GitHub Stats & Activity
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham777p" alt="pratham777p" /></a> </p>
+
 ---
+
 <p align="left">
   <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true" />
  <img src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" width="418px" alt="GitHub Streak" />
