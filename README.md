@@ -103,5 +103,4 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 💡 Let’s Connect & Innovate Together! 🌟
 ---
 
-## 🚀 My GitHub Stats
 
