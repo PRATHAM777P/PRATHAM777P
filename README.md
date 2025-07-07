@@ -111,3 +111,21 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react&hide_border=true&langs_count=8" width="45%" alt="Top Languages"/>
 </p>
 
+
+
+
+## 🚀 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true&include_all_commits=true&border_color=ffffff&border_radius=10" width="45%" alt="GitHub Stats" />
+
+  <img src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" width="45%" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧠 Top Languages I Use
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react&langs_count=8&border_color=ffffff&border_radius=10" width="45%" alt="Top Languages" />
+</p>
