@@ -54,6 +54,8 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
  
 ### 📊 GitHub Stats
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham777p" alt="pratham777p" /></a> </p>
+
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react" />
