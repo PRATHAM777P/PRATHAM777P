@@ -101,5 +101,13 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 💡 Let’s Connect & Innovate Together! 🌟
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" width="45%" alt="GitHub Stats" style="margin-right:10px;"/>
+  
+  <img src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&hide_border=true" width="45%" alt="GitHub Streak Stats"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react&hide_border=true&langs_count=8" width="45%" alt="Top Languages"/>
+</p>
 
