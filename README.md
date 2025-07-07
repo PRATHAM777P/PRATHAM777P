@@ -83,42 +83,12 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 ### 📊 GitHub Stats & Activity
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham777p" alt="pratham777p" /></a> </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true&include_all_commits=true&border_color=ffffff&border_radius=10" width="420px" alt="GitHub Stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" width="420px" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react&langs_count=8&border_color=ffffff&border_radius=10" width="420px" alt="Top Languages" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true&include_all_commits=true&border_color=ffffff&border_radius=10" width="300px" alt="GitHub Stats" style="margin-right: 10px;" />
-  
-  <img src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" width="300px" alt="GitHub Streak" style="margin: 0 10px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react&langs_count=8&border_color=ffffff&border_radius=10" width="300px" alt="Top Languages" style="margin-left: 10px;" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
+---
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react" />
 </p>
-
+ <img src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" width="420px" alt="GitHub Streak" />
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react" />
 </p>
