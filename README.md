@@ -36,44 +36,6 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 - 🕹️ Concept: Innovative **Mahabharata Game** using Unreal Engine
 ---
 🧰 My Tech Stack
-<p align="left"><img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> 
-  <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px"/> 
-  <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px"/> 
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-</p>
- 
-### 📊 GitHub Stats
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham777p" alt="pratham777p" /></a> </p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react" />
-</p>
-
----
-### ⚡ Fun Fact
-
-🎶 Coding with beats = Ultimate Productivity! 🎧  
-
-💡 Let’s Connect & Innovate Together! 🌟
----
-### 🧰 My Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> 
   <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px"/> 
@@ -113,3 +75,27 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="32px"/>
   </a>
 </p>
+ 
+### 📊 GitHub Stats
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham777p" alt="pratham777p" /></a> </p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react" />
+</p>
+
+---
+### ⚡ Fun Fact
+
+🎶 Coding with beats = Ultimate Productivity! 🎧  
+
+💡 Let’s Connect & Innovate Together! 🌟
+---
+
+
+
