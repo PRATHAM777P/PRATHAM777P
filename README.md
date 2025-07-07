@@ -91,11 +91,11 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 <p align="center">
   <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true&include_all_commits=true&border_color=ffffff&border_radius=10" alt="GitHub Stats" />
 
-  <img width="46.5%" src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="46.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react&langs_count=8&border_color=ffffff&border_radius=10" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react&langs_count=8&border_color=ffffff&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
