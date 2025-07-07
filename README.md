@@ -86,7 +86,7 @@ I enjoy exploring the intersection of **code, creativity, and innovation** — w
 ---
 <p align="left">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=PRATHAM777P&theme=react&show_icons=true&count_private=true" />
- <img src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" width="418px" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" width="419px" alt="GitHub Streak" />
 <p align="left">
   <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react" />
 </p>
