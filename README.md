@@ -30,11 +30,6 @@ I'm a Developer and E&TC Engineer who loves building intelligent systems, solvin
 I enjoy exploring the intersection of **code, creativity, and innovation** — whether it's designing AI-driven assistants, competing in hackathons, or crafting smart embedded systems.
 
 ---
-### 🏆 Achievements
-
-- 🥇 **1st Prize** – Business Model Competition (Eureka!) in association with **IIT Bombay**, 2023  
-- 🕹️ Concept: Innovative **Mahabharata Game** using Unreal Engine
----
 🧰 My Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> 
