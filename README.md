@@ -23,7 +23,7 @@
 
 ---
 
-### 👦🏻 About Me
+###👦🏻 About Me
 
 I'm a Developer and E&TC Engineer who loves building intelligent systems, solving real-world problems, and creating meaningful user experiences through **AI, ML, IoT**, and **Android development**.
 
