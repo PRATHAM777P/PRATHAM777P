@@ -26,7 +26,7 @@
 
 I'm a Developer and E&TC Engineer who loves building intelligent systems, solving real-world problems, and creating meaningful user experiences through **AI, ML, IoT**, and **Android development**.
 
-I enjoy exploring the intersection of **code, creativity, and innovation** — whether it's designing AI-driven assistants, competing in hackathons, or crafting smart embedded systems.
+I enjoy exploring the intersection of **code, creativity, and innovation** whether it's designing AI-driven assistants, competing in hackathons, or crafting smart embedded systems.
 
 ---
 🧰 My Tech Stack
