@@ -7,7 +7,7 @@
 </h2>
   </span>
 
-https://pin.it/3MR3eRuDJ
+![Anime Vibes](https://your-direct-image-link.gif)
 
 
 <h3 align="left">Connect with me:</h3>
