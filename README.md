@@ -7,7 +7,10 @@
 </h2>
   </span>
 
-![Anime Vibes](https://i.imgflip.com/a0zid0.gif)
+<p align="center">
+  <img src="https://i.imgflip.com/a0zid0.gif" alt="Anime Vibes" width="500">
+</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
