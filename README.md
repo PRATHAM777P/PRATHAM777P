@@ -7,13 +7,7 @@
 </h2>
   </span>
 
-
-<h2 align="center">🚀 Coding Vibes</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PRATHAM777P/your-repo-name/main/assets/Coding%20-%20Pixel%20Jeff.gif" alt="Coding Pixel Art" style="width:100%; max-width:1000px;">
-</p>
-
+<img src="./assets/coding-pixel-jeff.gif" width="100%" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
