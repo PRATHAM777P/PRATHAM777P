@@ -6,8 +6,6 @@
   <sub><em>aka Pratham</em></sub>
 </h2>
   </span>
-<img src="https://your-image-link.gif" width="100%" />
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
