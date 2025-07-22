@@ -6,8 +6,8 @@
   <sub><em>aka Pratham</em></sub>
 </h2>
   </span>
+![Anime Vibes](https://i.imgur.com/yourgifname.gif)
 
-![Anime Vibes](https://your-direct-image-link.gif)
 
 
 <h3 align="left">Connect with me:</h3>
