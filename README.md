@@ -7,7 +7,8 @@
 </h2>
   </span>
 
-<img src="https://your-direct-image-link.gif" width="100%" />
+<img src="./assets/your-image.gif" width="100%" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
