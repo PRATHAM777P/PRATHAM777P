@@ -7,7 +7,7 @@
 </h2>
   </span>
 
-  ![Anime GIF](https://pin.it/3MR3eRuDJ)
+https://pin.it/3MR3eRuDJ
 
 
 <h3 align="left">Connect with me:</h3>
