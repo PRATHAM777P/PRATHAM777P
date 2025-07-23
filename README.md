@@ -1,3 +1,4 @@
+![Coding - Pixel Jeff](https://github.com/user-attachments/assets/d60cb7d9-c445-4617-ae82-6b36904897bf)
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   <span style="background: linear-gradient(to right, #00FFFF, #8A2BE2, #00FFFF); -webkit-background-clip: text; color: transparent; font-weight: 700;">
