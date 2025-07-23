@@ -58,7 +58,6 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="32px" alt="MATLAB" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="32px" alt="PyCharm" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="32px" alt="MongoDB" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="32px" alt="Anaconda" style="margin-right: 10px;" />
 </p>
 
 ---
