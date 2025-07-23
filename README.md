@@ -86,3 +86,35 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
 
 💡 Let’s Connect & Innovate Together! 🌟
 ---
+<p align="left">
+  <!-- Skillicons (theme=light supported) -->
+  <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="32px"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px"/>
+
+  <!-- Other icons -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" height="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="32px"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="32px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="32px"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="32px"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="32px"/>
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="32px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="32px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="32px" alt="Anaconda" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="32px" alt="IntelliJ" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" width="32px" alt="Arduino" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="32px" alt="MATLAB" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="32px" alt="PyCharm" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="32px" alt="MongoDB" style="margin-right:10px;" />
+</p>
