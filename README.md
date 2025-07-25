@@ -37,14 +37,8 @@ I'm a Developer and E&TC Engineer who loves building intelligent systems, solvin
 
 I enjoy exploring the intersection of **code, creativity, and innovation** whether it's designing AI-driven assistants, competing in hackathons, or crafting smart embedded systems.
 
-### 🌟 Interests & Activities
-
-| Area                      | Description                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| 📱 App Design & Development | Dedicated to building intuitive, efficient, and user-friendly mobile applications. |
-| 🤖 Robotics & AI           | Enthusiast in machine learning, automation, and intelligent system design.      |
-| 🌍 IoT & Embedded Systems  | Passionate about crafting innovative, real-world hardware-software solutions.   |
 ---
+
 🧰 My Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> 
