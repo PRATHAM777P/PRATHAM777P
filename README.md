@@ -32,7 +32,7 @@
 
 ### 👦🏻 About Me
 
-I'm a Python Developer and E&TC Engineer who loves building intelligent systems, solving real-world problems, and creating meaningful user experiences through **AI, ML, IoT**, and **Android development**.
+I'm a Python Developer and E&TC Engineer who loves building intelligent systems and crafting tech that solves real-world problems. My work blends AI, ML, IoT, and Android development to create smart, practical, and meaningful user experiences.
 
 I enjoy exploring the intersection of **code, creativity, and innovation** whether it's designing AI-driven assistants, competing in hackathons, or crafting smart embedded systems.
 
