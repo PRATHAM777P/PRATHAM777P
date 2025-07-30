@@ -1,11 +1,16 @@
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/d60cb7d9-c445-4617-ae82-6b36904897bf" 
-    alt="Coding - Pixel Jeff" 
-    width="1000" 
-    style="display: block; margin: 0 auto;" 
-  >
-</p>
+<table align="center" border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; width: 80%;">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github.com/user-attachments/assets/d60cb7d9-c445-4617-ae82-6b36904897bf" 
+        alt="Coding - Pixel Jeff" 
+        width="100%" 
+        style="display: block; margin: 0 auto;" 
+      />
+    </td>
+  </tr>
+</table>
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
