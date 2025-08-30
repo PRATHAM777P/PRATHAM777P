@@ -79,11 +79,9 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
 </p>
 
 ---
-
-
 ### 📊 GitHub Stats & Activity
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham777p" alt="pratham777p" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PRATHAM777P" alt="pratham777p" /></a> </p>
 
 ---
 
