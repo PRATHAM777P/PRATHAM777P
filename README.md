@@ -105,3 +105,7 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
 
 💡 Let’s Connect & Innovate Together! 🌟
 ---
+
+### 📊 GitHub Trophies & Stats
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PRATHAM777P&theme=onedark&title=Commits,Streaks,PullRequest,Stars,Followers&column=-1)
