@@ -105,8 +105,3 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
 
 💡 Let’s Connect & Innovate Together! 🌟
 ---
-
-
-<p align="center">
-  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
-</p>
