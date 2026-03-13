@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=PRATHAM777P&base=20000)
+![](https://komarev.com/ghpvc/?username=PRATHAM777P&base=0)
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
