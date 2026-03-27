@@ -13,6 +13,10 @@
 
 ![](https://komarev.com/ghpvc/?username=PRATHAM777P&base=0)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   <span style="background: linear-gradient(to right, #00FFFF, #8A2BE2, #00FFFF); -webkit-background-clip: text; color: transparent; font-weight: 700;">
@@ -21,6 +25,10 @@
   <sub><em>aka Pratham</em></sub>
 </h2>
   </span>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -128,7 +136,7 @@ Junior AI/ML Engineer and E&TC Engineer passionate about building intelligent, r
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
 ### ⚡ Fun Fact
