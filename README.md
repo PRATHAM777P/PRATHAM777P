@@ -117,7 +117,7 @@ Junior AI/ML Engineer and E&TC Engineer passionate about building intelligent, r
     </td>
     <td align="center">
      <a href="https://github.com/PRATHAM777P">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRATHAM777P&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRATHAM777P&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
