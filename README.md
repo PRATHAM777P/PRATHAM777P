@@ -107,7 +107,8 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
       <img width="100%" src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
     </td>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM777P&layout=compact&theme=react&langs_count=8&border_color=ffffff&border_radius=10" alt="Top Languages" />
+     <a href="https://github.com/PRATHAM777P">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRATHAM777P&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -128,12 +129,6 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
 
 💡 Let’s Connect & Innovate Together! 🌟
 ---
-
-<p align="center">
-  <a href="https://github.com/PRATHAM777P">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRATHAM777P&langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 
 
