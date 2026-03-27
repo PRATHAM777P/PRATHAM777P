@@ -142,6 +142,8 @@ Junior AI/ML Engineer and E&TC Engineer passionate about building intelligent, r
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
+---
+
 ### ⚡ Fun Fact
 
 🎶 Coding with beats = Ultimate Productivity! 🎧  
