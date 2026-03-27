@@ -141,7 +141,9 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
 
 
 
-
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=PRATHAM777P&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
 
 
 
