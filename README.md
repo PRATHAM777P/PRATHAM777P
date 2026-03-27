@@ -36,9 +36,7 @@
 
 ### 👦🏻 About Me
 
-I'm a Junior AI/ML Engineer and E&TC Engineer who loves building intelligent systems and crafting tech that solves real-world problems. My work blends AI, ML, IoT, and Android development to create smart, practical, and meaningful user experiences.
-
-I enjoy exploring the intersection of **code, creativity, and innovation** whether it's designing AI-driven assistants, competing in hackathons, or crafting smart embedded systems.
+Junior AI/ML Engineer and E&TC Engineer passionate about building intelligent, real-world solutions. I work across AI 🧠, ML 📊, IoT 🌐, and Android development 📱to create smart and impactful applications, with a strong focus on innovation and problem-solving.
 
 ---
 
