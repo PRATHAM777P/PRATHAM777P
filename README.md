@@ -99,6 +99,9 @@ Junior AI/ML Engineer and E&TC Engineer passionate about building intelligent, r
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
 <table>
   <tr>
@@ -121,39 +124,15 @@ Junior AI/ML Engineer and E&TC Engineer passionate about building intelligent, r
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
 ### ⚡ Fun Fact
 
 🎶 Coding with beats = Ultimate Productivity! 🎧  
 
 💡 Let’s Connect & Innovate Together! 🌟
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
