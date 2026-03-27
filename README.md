@@ -85,7 +85,9 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
     </td>
   </tr>
 </table>
+
 ---
+
 ### 📊 GitHub Stats & Activity
 <table>
   <tr>
@@ -98,7 +100,6 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
   </tr>
 </table>
 
----
 
 <table>
   <tr>
