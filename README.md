@@ -43,6 +43,10 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
 ---
 
 🧰 My Tech Stack
+<table>
+  <tr>
+    <td align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> 
   <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px"/> 
@@ -78,11 +82,21 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="32px" alt="JSON"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="32px" alt="Gradle"/>  
 </p>
-
+    </td>
+  </tr>
+</table>
 ---
 ### 📊 GitHub Stats & Activity
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PRATHAM777P" alt="PRATHAM777P" /></a> </p>
+<table>
+  <tr>
+    <td align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=PRATHAM777P&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,10 +112,48 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
 </table>
 
 ---
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHAM777P&theme=onedark&radius=10" alt="PRATHAM777P's Activity Graph" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+---
 ### ⚡ Fun Fact
 
 🎶 Coding with beats = Ultimate Productivity! 🎧  
 
 💡 Let’s Connect & Innovate Together! 🌟
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
