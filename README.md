@@ -13,9 +13,8 @@
 
 ![](https://komarev.com/ghpvc/?username=PRATHAM777P&base=0)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div
+
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
@@ -26,9 +25,9 @@
 </h2>
   </span>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div
+  
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
