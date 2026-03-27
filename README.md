@@ -89,14 +89,15 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
 ---
 
 ### 📊 GitHub Stats & Activity
+
 <table>
   <tr>
-  <td align="center">
+<td align="center">
       <img width="100%" src="https://streak-stats.demolab.com?
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=PRATHAM777P&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 </p>
-    </td>
+  </td>
   </tr>
 </table>
 
