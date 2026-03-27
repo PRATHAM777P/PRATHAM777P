@@ -16,7 +16,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   <span style="background: linear-gradient(to right, #00FFFF, #8A2BE2, #00FFFF); -webkit-background-clip: text; color: transparent; font-weight: 700;">
-    Hi there, I'm Prathamesh Penshanwar
+    Hi there, <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Prathamesh Penshanwar
       </span><br/>
   <sub><em>aka Pratham</em></sub>
 </h2>
