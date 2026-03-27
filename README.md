@@ -129,6 +129,11 @@ I enjoy exploring the intersection of **code, creativity, and innovation** wheth
 💡 Let’s Connect & Innovate Together! 🌟
 ---
 
+<p align="center">
+  <a href="https://github.com/PRATHAM777P">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRATHAM777P&langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 
 
