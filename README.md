@@ -95,17 +95,6 @@ Junior AI/ML Engineer and E&TC Engineer passionate about building intelligent, r
 
 ### 📊 GitHub Stats & Activity
 
-<table>
-  <tr>
-<td align="center">
-      <img width="100%" src="https://streak-stats.demolab.com?
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=PRATHAM777P&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
-</p>
-  </td>
-  </tr>
-</table>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
