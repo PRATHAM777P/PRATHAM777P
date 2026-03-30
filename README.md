@@ -80,6 +80,7 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="32px" title="IntelliJ"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="32px" title="PyCharm"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="32px" title="MATLAB"/>
+      <img src="https://skillicons.dev/icons?i=cursor&theme=light" width="32px" title="Cursor"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32px" title="Flask"/>
@@ -91,6 +92,10 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="32px" title="Plotly"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="32px" title="Pytest"/>
       <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="32px" title="OpenCV"/>
+      <img src="https://img.shields.io/badge/Claude-AI-black?style=flat&logo=anthropic&logoColor=white" height="32px" title="Claude"/>
+      <img src="https://img.shields.io/badge/Promptify-NLP-blue?style=flat" height="32px" title="Promptify"/>
+      <img src="https://img.shields.io/badge/pyttsx3-TTS-green?style=flat" height="32px" title="pyttsx3"/>
+      <img src="https://img.shields.io/badge/requests-HTTP-orange?style=flat" height="32px" title="requests"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px" title="MySQL"/>
@@ -109,6 +114,7 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" width="32px" title="Arduino"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" width="32px" title="Confluence"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="32px" title="Gradle"/>
+      <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" height="32px" title="MS Office"/>
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="32px" title="Unity"/>
