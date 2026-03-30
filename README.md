@@ -55,7 +55,6 @@ to create smart and impactful applications, with a strong focus on innovation an
 - 🗣️ **Languages:** 🇬🇧 **English** | 🇮🇳 **Marathi** | 🇮🇳 **Hindi**
 ---
 
-
 ## 🧰 My Tech Stack
 
 <table>
@@ -80,6 +79,7 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="32px" title="IntelliJ"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="32px" title="PyCharm"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="32px" title="MATLAB"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="32px" title="Jupyter"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32px" title="Flask"/>
@@ -87,10 +87,10 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="32px" title="PyTorch"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="32px" title="Scikit-Learn"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="32px" title="Anaconda"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="32px" title="Jupyter"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="32px" title="Plotly"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="32px" title="Pytest"/>
       <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="32px" title="OpenCV"/>
+      <img src="https://img.shields.io/badge/numpy-F77601?style=flat&logo=numpy&logoColor=white" height="32px" title="NumPy"/>
       <img src="https://img.shields.io/badge/pyttsx3-TTS-green?style=flat" height="32px" title="pyttsx3"/>
       <img src="https://img.shields.io/badge/requests-HTTP-orange?style=flat" height="32px" title="requests"/>
     </td>
@@ -115,7 +115,7 @@ to create smart and impactful applications, with a strong focus on innovation an
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="32px" title="Unity"/>
-      <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="32px" title="Unreal Engine"/>
+      <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f/icons/svg/brand/unreal-engine.svg" width="32px" title="Unreal Engine"/>
     </td>
   </tr>
 </table>
