@@ -47,49 +47,69 @@ Junior AI/ML Engineer and E&TC Engineer passionate about building intelligent, r
 
 ---
 
-🧰 My Tech Stack
+
+## 🧰 My Tech Stack
+
 <table>
   <tr>
+    <th>Programming Languages</th>
+    <th>IDEs / Editors</th>
+    <th>Frameworks / Libraries</th>
+    <th>Databases / Query Languages</th>
+    <th>Platforms / Tools</th>
+    <th>Game Engines</th>
+  </tr>
+  <tr>
     <td align="center">
-      <img width="100%" src="https://streak-stats.demolab.com?
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px"/> 
-  <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px"/> 
-  <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px"/> 
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="32px"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" height="32px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="32px"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="32px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="32px"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="32px"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="32px"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="32px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="32px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="32px" alt="Anaconda" style="margin-right: 10px;" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="32px" alt="IntelliJ" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" width="32px" alt="Arduino" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="32px" alt="MATLAB" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="32px" alt="PyCharm" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="32px" alt="MongoDB" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" width="32px" alt="Confluence"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="32px" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="32px" alt="Pytest"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="32px" alt="Plotly"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="32px" alt="JSON"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="32px" alt="Gradle"/>  
-</p>
+      <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px" title="Python"/>
+      <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px" title="C++"/>
+      <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px" title="Kotlin"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" height="32px" title="SQL (PostgreSQL)"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px" title="VS Code"/>
+      <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px" title="Android Studio"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="32px" title="IntelliJ"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="32px" title="PyCharm"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="32px" title="MATLAB"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32px" title="Flask"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32px" title="Pandas"/>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="32px" title="PyTorch"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="32px" title="Scikit-Learn"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="32px" title="Anaconda"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="32px" title="Jupyter"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="32px" title="Plotly"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="32px" title="Pytest"/>
+      <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="32px" title="OpenCV"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px" title="MySQL"/>
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="32px" title="SQLite"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="32px" title="MongoDB"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px" title="Git"/>
+      <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px" title="GitHub"/>
+      <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px" title="Docker"/>
+      <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px" title="Azure"/>
+      <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px" title="AWS"/>
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="32px" title="Linux"/>
+      <img src="https://skillicons.dev/icons?i=windows&theme=light" width="32px" title="Windows"/>
+      <img src="https://skillicons.dev/icons?i=cmake&theme=light" width="32px" title="CMake"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" width="32px" title="Arduino"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" width="32px" title="Confluence"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="32px" title="Gradle"/>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="32px" title="Unity"/>
+      <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="32px" title="Unreal Engine"/>
     </td>
   </tr>
 </table>
+
+
 
 ---
 
@@ -141,3 +161,87 @@ Junior AI/ML Engineer and E&TC Engineer passionate about building intelligent, r
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
