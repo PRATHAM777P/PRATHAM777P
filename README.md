@@ -21,7 +21,7 @@
   <span style="background: linear-gradient(to right, #00FFFF, #8A2BE2, #00FFFF); -webkit-background-clip: text; color: transparent; font-weight: 700;">
     Hi there, <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Prathamesh Penshanwar
       </span><br/>
-  <sub><em>aka Pratham</em></sub>
+  <sub><em>(aka Pratham)</em></sub>
 </h2>
   </span>
 
@@ -41,9 +41,17 @@
 
 ---
 
-### 👦🏻 About Me
+## 👦🏻 About Me
+Junior AI/ML Engineer and E&TC (Electronics & Telecommunication) Engineer 
+passionate about building intelligent, real-world solutions. 
+I work across:
 
-Junior AI/ML Engineer and E&TC Engineer passionate about building intelligent, real-world solutions. I work across AI 🧠, ML 📊, IoT 🌐, and Android development 📱to create smart and impactful applications, with a strong focus on innovation and problem-solving.
+- 🧠 AI (Artificial Intelligence)
+- 📊 ML (Machine Learning)
+- 🌐 IoT (Internet of Things)
+- 📱 Android Development
+
+to create smart and impactful applications, with a strong focus on innovation and problem-solving.
 
 ---
 
