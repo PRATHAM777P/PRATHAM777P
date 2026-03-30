@@ -259,3 +259,109 @@ to create smart and impactful applications, with a strong focus on innovation an
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 🧰 My Tech Stack
+
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <th>IDEs / Editors</th>
+    <th>Frameworks / Libraries</th>
+    <th>Databases / Query Languages</th>
+    <th>Platforms / Tools</th>
+    <th>Game Engines</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px" title="Python"/>
+      <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px" title="C++"/>
+      <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px" title="Kotlin"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" height="32px" title="SQL (PostgreSQL)"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px" title="VS Code"/>
+      <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px" title="Android Studio"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="32px" title="IntelliJ"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="32px" title="PyCharm"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="32px" title="MATLAB"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32px" title="Flask"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32px" title="Pandas"/>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="32px" title="PyTorch"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="32px" title="Scikit-Learn"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="32px" title="Anaconda"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="32px" title="Jupyter"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="32px" title="Plotly"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="32px" title="Pytest"/>
+      <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="32px" title="OpenCV"/>
+      <img src="https://img.shields.io/badge/pyttsx3-TTS-green?style=flat" height="32px" title="pyttsx3"/>
+      <img src="https://img.shields.io/badge/requests-HTTP-orange?style=flat" height="32px" title="requests"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px" title="MySQL"/>
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="32px" title="SQLite"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="32px" title="MongoDB"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px" title="Git"/>
+      <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px" title="GitHub"/>
+      <img src="https://skillicons.dev/icons?i=docker&theme=light" width="32px" title="Docker"/>
+      <img src="https://skillicons.dev/icons?i=azure&theme=light" width="32px" title="Azure"/>
+      <img src="https://skillicons.dev/icons?i=aws&theme=light" width="32px" title="AWS"/>
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="32px" title="Linux"/>
+      <img src="https://skillicons.dev/icons?i=windows&theme=light" width="32px" title="Windows"/>
+      <img src="https://skillicons.dev/icons?i=cmake&theme=light" width="32px" title="CMake"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" width="32px" title="Arduino"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" width="32px" title="Confluence"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="32px" title="Gradle"/>
+      <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" height="32px" title="MS Office"/>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="32px" title="Unity"/>
+      <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="32px" title="Unreal Engine"/>
+    </td>
+  </tr>
+</table>
+
+---
