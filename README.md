@@ -42,7 +42,7 @@
 ---
 
 ## 👦🏻 About Me
-Junior AI/ML Engineer and E&TC (Electronics & Telecommunication) Engineer 
+Junior AI Engineer and E&TC (Electronics & Telecommunication) Engineer 
 passionate about building intelligent, real-world solutions. 
 I work across:
 
