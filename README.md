@@ -28,25 +28,57 @@
   
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/PRATHAM777P" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="PRATHAM777P" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/prathamesh-penshanwar777p/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-penshanwar777p" height="30" width="40" /></a>
-<a href="https://www.instagram.com/not_pratham_8/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_pratham_8" height="30" width="40" /></a>
-<a href="https://hackerrank.com/prathamesh777h_r" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathamesh777h_r" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Prathamesh7exe/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prathamesh7exe" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prath_7codex" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="prath_7codex" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@prathameshpenshanwar777" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" alt="prathameshpenshanwar777" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prathameshpev8ob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathameshpev8ob" height="30" width="40" /> </a>
-<a href="https://kaggle.com/prathameshpenshanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathameshpenshanwar" height="30" width="40" /></a>
+<h3 align="center">🌐 Connect with me</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PRATHAM777P" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40" title="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/prathamesh-penshanwar777p/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" title="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/not_pratham_8/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" title="Instagram"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://hackerrank.com/prathamesh777h_r" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" title="HackerRank"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/Prathamesh7exe/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" title="LeetCode"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/prath_7codex" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="40" height="40" title="CodeChef"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerearth.com/@prathameshpenshanwar777" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" width="40" height="40" title="HackerEarth"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/prathameshpev8ob" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="40" title="GeeksForGeeks"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/prathameshpenshanwar" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40" title="Kaggle"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
@@ -190,3 +222,74 @@ to create smart and impactful applications, with a strong focus on innovation an
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
