@@ -130,7 +130,13 @@ to create smart and impactful applications, with a strong focus on innovation an
 ---
 
 ### 📊 GitHub Stats & Activity
-
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRATHAM777P&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PRATHAM777P&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRATHAM777P&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PRATHAM777P&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PRATHAM777P&theme=radical&utcOffset=5.5">
+</div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
@@ -151,8 +157,9 @@ to create smart and impactful applications, with a strong focus on innovation an
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHAM777P&theme=onedark&radius=10" alt="PRATHAM777P's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHAM777P&theme=react-dark"/>
 </p>
 
 <div align="center">
@@ -177,5 +184,3 @@ to create smart and impactful applications, with a strong focus on innovation an
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-
-
