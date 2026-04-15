@@ -96,7 +96,7 @@ I work across:
 
 to create smart and impactful applications, with a strong focus on innovation and problem-solving.
 
-- 🗣️ **Languages:** 🇬🇧 English | 🇮🇳 Marathi | 🇮🇳 Hindi
+- 🗣️ **Languages:** 🇮🇳 Marathi | 🇮🇳 Hindi | 🇬🇧 English
 ---
 
 ## 🧰 My Tech Stack
