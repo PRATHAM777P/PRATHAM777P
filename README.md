@@ -113,7 +113,8 @@ I work across:
 - 📱 Android Development
 
 to create smart and impactful applications, with a strong focus on innovation and problem-solving.
-
+- 🎓 **Degree:** B.E. in Electronics & Telecommunication (E&TC)
+- 📧 **Open to:** Collaborations and Open Source Opportunities
 - 🗣️ **Languages:** 🇮🇳 Marathi | 🇮🇳 Hindi | 🇬🇧 English
 
 ---
@@ -243,7 +244,7 @@ to create smart and impactful applications, with a strong focus on innovation an
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHAM777P&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHAM777P&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=00FFFF&area=true&hide_border=false" alt="Contribution Activity Graph"/>
 </p>
 
 <!-- Divider -->
@@ -270,13 +271,31 @@ to create smart and impactful applications, with a strong focus on innovation an
 <!--                         FUN FACT / FOOTER                    -->
 <!-- ============================================================ -->
 
-### ⚡ Fun Fact
+## ⚡ Fun Facts & Vibes
 
-🎶 Coding with beats = Ultimate Productivity! 🎧
+> 🎶 Coding with beats = Ultimate Productivity! 🎧  
+> 🎮 Gaming recharges the CPU (aka my brain)  
+> ☕ Fueled by chai & curiosity 
 
-💡 Let's Connect & Innovate Together! 🌟
+<div align="center">
+
+  **💡 Let's Connect & Innovate Together! 🌟**
+
+  [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PRATHAM777P)
+  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-penshanwar777p/)
+
+</div>
+
 
 <!-- Footer Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Footer Animation" width="100%"/>
+</div>
+
+<!-- ============================================================ -->
+<!--                     FOOTER WAVE ANIMATION                    -->
+<!-- ============================================================ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
