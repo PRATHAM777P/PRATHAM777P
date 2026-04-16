@@ -1,3 +1,7 @@
+<!-- ============================================================ -->
+<!--                     HEADER / BANNER IMAGE                    -->
+<!-- ============================================================ -->
+
 <table align="center" border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; width: 80%;">
   <tr>
     <td align="center">
@@ -11,22 +15,31 @@
   </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=PRATHAM777P&base=0)
+<!-- ============================================================ -->
+<!--                      PROFILE VIEW COUNTER                    -->
+<!-- ============================================================ -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=PRATHAM777P&base=0)
 
+---
 
+<!-- ============================================================ -->
+<!--                     GREETING / INTRO TITLE                   -->
+<!-- ============================================================ -->
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   <span style="background: linear-gradient(to right, #00FFFF, #8A2BE2, #00FFFF); -webkit-background-clip: text; color: transparent; font-weight: 700;">
     Hi there, <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Prathamesh Penshanwar
-      </span><br/>
+  </span><br/>
   <sub><em>(aka Pratham)</em></sub>
-</h2>
-  </span>
+</h1>
 
-  
 ---
+
+<!-- ============================================================ -->
+<!--                      SOCIAL MEDIA LINKS                      -->
+<!-- ============================================================ -->
 
 <h3 align="center">🌐 Connect with me</h3>
 
@@ -81,23 +94,33 @@
 </table>
 
 ---
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
 
-<img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
+<!-- ============================================================ -->
+<!--                         ABOUT ME SECTION                     -->
+<!-- ============================================================ -->
+
+## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width="41px">&nbsp;&nbsp; About Me
+
+<img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width="250px"/>
 
 Junior AI/ML Engineer and E&TC (Electronics & Telecommunication) Engineer passionate about building intelligent, real-world solutions.
 
 I work across:
 
-- 🧠 AI (Artificial Intelligence)  
-- 📊 ML (Machine Learning)  
-- 🌐 IoT (Internet of Things)  
-- 📱 Android Development  
+- 🧠 AI (Artificial Intelligence)
+- 📊 ML (Machine Learning)
+- 🌐 IoT (Internet of Things)
+- 📱 Android Development
 
 to create smart and impactful applications, with a strong focus on innovation and problem-solving.
 
 - 🗣️ **Languages:** 🇮🇳 Marathi | 🇮🇳 Hindi | 🇬🇧 English
+
 ---
+
+<!-- ============================================================ -->
+<!--                        TECH STACK TABLE                      -->
+<!-- ============================================================ -->
 
 ## 🧰 My Tech Stack
 
@@ -111,12 +134,14 @@ to create smart and impactful applications, with a strong focus on innovation an
     <th>Game Engines</th>
   </tr>
   <tr>
+    <!-- Programming Languages -->
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px" title="Python"/>
       <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px" title="C++"/>
       <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px" title="Kotlin"/>
       <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" height="32px" title="SQL (PostgreSQL)"/>
     </td>
+    <!-- IDEs / Editors -->
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px" title="VS Code"/>
       <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="32px" title="Android Studio"/>
@@ -125,6 +150,7 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="32px" title="MATLAB"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="32px" title="Jupyter"/>
     </td>
+    <!-- Frameworks / Libraries -->
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32px" title="Flask"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32px" title="Pandas"/>
@@ -138,11 +164,13 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://img.shields.io/badge/pyttsx3-TTS-green?style=flat" height="32px" title="pyttsx3"/>
       <img src="https://img.shields.io/badge/requests-HTTP-orange?style=flat" height="32px" title="requests"/>
     </td>
+    <!-- Databases / Query Languages -->
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px" title="MySQL"/>
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="32px" title="SQLite"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="32px" title="MongoDB"/>
     </td>
+    <!-- Platforms / Tools -->
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git&theme=light" width="32px" title="Git"/>
       <img src="https://skillicons.dev/icons?i=github&theme=light" width="32px" title="GitHub"/>
@@ -157,6 +185,7 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="32px" title="Gradle"/>
       <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" height="32px" title="MS Office"/>
     </td>
+    <!-- Game Engines -->
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="32px" title="Unity"/>
       <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f/icons/svg/brand/unreal-engine.svg" width="32px" title="Unreal Engine"/>
@@ -164,132 +193,90 @@ to create smart and impactful applications, with a strong focus on innovation an
   </tr>
 </table>
 
-
 ---
 
+<!-- ============================================================ -->
+<!--                     GITHUB STATS CARDS                       -->
+<!-- ============================================================ -->
+
 ### 📊 GitHub Stats & Activity
+
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRATHAM777P&theme=radical">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PRATHAM777P&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRATHAM777P&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PRATHAM777P&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PRATHAM777P&theme=radical&utcOffset=5.5">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRATHAM777P&theme=radical"/>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PRATHAM777P&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRATHAM777P&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PRATHAM777P&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PRATHAM777P&theme=radical&utcOffset=5.5"/>
 </div>
+
+<!-- Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
 </div>
+
+<!-- ============================================================ -->
+<!--               STREAK STATS & TOP LANGUAGES                   -->
+<!-- ============================================================ -->
 
 <table>
   <tr>
+    <!-- GitHub Streak -->
     <td align="center">
-      <img width="100%" src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com?user=PRATHAM777P&theme=react&border_radius=10&ring=ffffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak"/>
     </td>
+    <!-- Top Languages -->
     <td align="center">
-     <a href="https://github.com/PRATHAM777P">
-    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRATHAM777P&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+      <a href="https://github.com/PRATHAM777P">
+        <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRATHAM777P&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages"/>
+      </a>
     </td>
   </tr>
 </table>
 
+<!-- Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
 </div>
 
+<!-- ============================================================ -->
+<!--                    ACTIVITY GRAPH                            -->
+<!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHAM777P&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHAM777P&theme=react-dark" alt="Activity Graph"/>
 </p>
 
+<!-- Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
+</div>
+
+<!-- ============================================================ -->
+<!--                  SPACE SHOOTER CONTRIBUTION GRAPH            -->
+<!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter Contribution Graph"/>
 </p>
 
+<!-- Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
 </div>
 
 ---
 
+<!-- ============================================================ -->
+<!--                         FUN FACT / FOOTER                    -->
+<!-- ============================================================ -->
+
 ### ⚡ Fun Fact
 
-🎶 Coding with beats = Ultimate Productivity! 🎧  
+🎶 Coding with beats = Ultimate Productivity! 🎧
 
-💡 Let’s Connect & Innovate Together! 🌟
+💡 Let's Connect & Innovate Together! 🌟
+
+<!-- Footer Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Footer Animation" width="100%"/>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
