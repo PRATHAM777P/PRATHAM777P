@@ -140,7 +140,7 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://skillicons.dev/icons?i=python&theme=light" width="32px" title="Python"/>
       <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px" title="C++"/>
       <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px" title="Kotlin"/>
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" height="32px" title="SQL (PostgreSQL)"/>
+      <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="32px" title="JavaScript"/>
     </td>
     <!-- IDEs / Editors -->
     <td align="center">
@@ -150,6 +150,7 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="32px" title="PyCharm"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="32px" title="MATLAB"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="32px" title="Jupyter"/>
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="32px" title="Cursor"/>
     </td>
     <!-- Frameworks / Libraries -->
     <td align="center">
@@ -170,6 +171,7 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px" title="MySQL"/>
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="32px" title="SQLite"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="32px" title="MongoDB"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" height="32px" title="SQL (PostgreSQL)"/>
     </td>
     <!-- Platforms / Tools -->
     <td align="center">
