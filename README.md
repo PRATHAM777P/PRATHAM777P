@@ -115,7 +115,7 @@ I work across:
 to create smart and impactful applications, with a strong focus on innovation and problem-solving.
 - 🎓 **Degree:** B.E. in Electronics & Telecommunication (E&TC)
 - 📧 **Open to:** Collaborations and Open Source Opportunities
-- 🗣️ **Languages:** 🇮🇳 Marathi | 🇮🇳 Hindi | 🇬🇧 English
+- 🗣️ **Languages:** Marathi | Hindi | English
 
 ---
 
