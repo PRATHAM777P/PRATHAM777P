@@ -159,6 +159,9 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://img.shields.io/badge/numpy-F77601?style=flat&logo=numpy&logoColor=white" height="32px" title="NumPy"/>
       <img src="https://img.shields.io/badge/pyttsx3-TTS-green?style=flat" height="32px" title="pyttsx3"/>
       <img src="https://img.shields.io/badge/requests-HTTP-orange?style=flat" height="32px" title="requests"/>
+      <img src="https://skillicons.dev/icons?i=django&theme=light" width="32px" title="Django"/>
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="32px" title="FastAPI"/>
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" width="32px" title="TensorFlow"/>
     </td>
     <!-- Databases / Query Languages -->
     <td align="center">
@@ -182,6 +185,9 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="32px" title="Gradle"/>
       <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" height="32px" title="MS Office"/>
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="32px" title="n8n"/>
+      <img src="https://skillicons.dev/icons?i=gcp&theme=light" width="32px" title="GCP"/>
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="32px" title="GitHub Actions"/>
+      <img src="https://skillicons.dev/icons?i=replit&theme=light" width="32px" title="Replit"/>
     </td>
     <!-- Game Engines -->
     <td align="center">
@@ -292,7 +298,3 @@ to create smart and impactful applications, with a strong focus on innovation an
 <!-- ============================================================ -->
 <!--                     FOOTER WAVE ANIMATION                    -->
 <!-- ============================================================ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
