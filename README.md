@@ -325,16 +325,38 @@ to create smart and impactful applications, with a strong focus on innovation an
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ============================================================ -->
+<!--                        TECH STACK TABLE                      -->
+<!-- ============================================================ -->
+
 ## 🧰 My Tech Stack
 
+<!-- TABLE 1 -->
 <table>
   <tr>
     <th>Programming Languages</th>
+    <th>Markup &amp; Styling</th>
     <th>IDEs / Editors</th>
     <th>Frameworks / Libraries</th>
-    <th>Databases / Query Languages</th>
-    <th>Platforms / Tools</th>
-    <th>Game Engines</th>
   </tr>
   <tr>
     <!-- Programming Languages -->
@@ -343,6 +365,12 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px" title="C++"/>
       <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px" title="Kotlin"/>
       <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="32px" title="JavaScript"/>
+    </td>
+    <!-- Markup & Styling -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html&theme=light" width="32px" title="HTML"/>
+      <img src="https://skillicons.dev/icons?i=css&theme=light" width="32px" title="CSS"/>
+      <img src="https://img.shields.io/badge/XML-FF6600?style=flat&logo=w3c&logoColor=white" height="32px" title="XML"/>
     </td>
     <!-- IDEs / Editors -->
     <td align="center">
@@ -366,7 +394,21 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://img.shields.io/badge/numpy-F77601?style=flat&logo=numpy&logoColor=white" height="32px" title="NumPy"/>
       <img src="https://img.shields.io/badge/pyttsx3-TTS-green?style=flat" height="32px" title="pyttsx3"/>
       <img src="https://img.shields.io/badge/requests-HTTP-orange?style=flat" height="32px" title="requests"/>
+      <img src="https://skillicons.dev/icons?i=django&theme=light" width="32px" title="Django"/>
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="32px" title="FastAPI"/>
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" width="32px" title="TensorFlow"/>
     </td>
+  </tr>
+</table>
+
+<!-- TABLE 2 -->
+<table>
+  <tr>
+    <th>Databases / Query Languages</th>
+    <th>Platforms / Tools</th>
+    <th>Game Engines</th>
+  </tr>
+  <tr>
     <!-- Databases / Query Languages -->
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="32px" title="MySQL"/>
@@ -389,6 +431,9 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="32px" title="Gradle"/>
       <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" height="32px" title="MS Office"/>
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="32px" title="n8n"/>
+      <img src="https://skillicons.dev/icons?i=gcp&theme=light" width="32px" title="GCP"/>
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="32px" title="GitHub Actions"/>
+      <img src="https://skillicons.dev/icons?i=replit&theme=light" width="32px" title="Replit"/>
     </td>
     <!-- Game Engines -->
     <td align="center">
