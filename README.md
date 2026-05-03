@@ -123,6 +123,7 @@ to create smart and impactful applications, with a strong focus on innovation an
 <table>
   <tr>
     <th>Programming Languages</th>
+    <th>Markup &amp; Styling</th>
     <th>IDEs / Editors</th>
     <th>Frameworks / Libraries</th>
     <th>Databases / Query Languages</th>
@@ -136,6 +137,12 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="32px" title="C++"/>
       <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="32px" title="Kotlin"/>
       <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="32px" title="JavaScript"/>
+    </td>
+    <!-- Markup & Styling -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html&theme=light" width="32px" title="HTML"/>
+      <img src="https://skillicons.dev/icons?i=css&theme=light" width="32px" title="CSS"/>
+      <img src="https://img.shields.io/badge/XML-FF6600?style=flat&logo=w3c&logoColor=white" height="32px" title="XML"/>
     </td>
     <!-- IDEs / Editors -->
     <td align="center">
