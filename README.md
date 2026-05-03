@@ -56,11 +56,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/not_pratham_8/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" title="Instagram"/>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://hackerrank.com/prathamesh777h_r" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" title="HackerRank"/>
       </a>
