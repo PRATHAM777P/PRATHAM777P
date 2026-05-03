@@ -182,6 +182,7 @@ to create smart and impactful applications, with a strong focus on innovation an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" width="32px" title="Confluence"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="32px" title="Gradle"/>
       <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" height="32px" title="MS Office"/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="32px" title="n8n"/>
     </td>
     <!-- Game Engines -->
     <td align="center">
